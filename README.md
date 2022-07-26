@@ -20,4 +20,3 @@
 - JavaScript - basic
 #### Find Me
 - Discord: OrdinarilySam#5258
-- Twitter: @OrdinarilySam
