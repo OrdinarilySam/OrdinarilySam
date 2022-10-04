@@ -14,3 +14,4 @@
 - Location: MN, USA
 #### Find Me
 - Discord: OrdinarilySam#5258
+- LinkedIn: [Sam Martin](https://www.linkedin.com/in/samuel-martin-17546423a/)
