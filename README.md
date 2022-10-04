@@ -12,11 +12,5 @@
 - Name: Sam
 - Age: 19
 - Location: MN, USA
-#### Languages
-- Python - beginner - Currently Learning
-- HTML - beginner - Currently Learning
-- Java - beginner
-- CSS - basic - Currently Learning
-- JavaScript - basic
 #### Find Me
 - Discord: OrdinarilySam#5258
