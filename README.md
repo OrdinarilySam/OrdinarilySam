@@ -10,7 +10,7 @@
 ```
 #### About me
 - Name: Sam
-- Age: 19
+- Age: 20
 - Location: MN, USA
 #### Find Me
 - Discord: OrdinarilySam#5258
