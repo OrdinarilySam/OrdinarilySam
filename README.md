@@ -13,7 +13,7 @@
    "name": "Sam",
    "location": "Minnesota",
    "favorite language": "JavaScript",
-   "currently learning": ["React", "Rust"]
+   "currently learning": ["React", "TypeScript", "Rust"],
    "find me": {
       "discord": "OrdinarilySam#5258"
       "linkedin": "linkedin.com/in/samuel-martin-17546423a/"
