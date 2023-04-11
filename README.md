@@ -8,10 +8,17 @@
                                            __/ |                       
                                           |___/                        
 ```
-#### About me
-- Name: Sam
-- Age: 20
-- Location: MN, USA
-#### Find Me
-- Discord: OrdinarilySam#5258
-- LinkedIn: [Sam Martin](https://www.linkedin.com/in/samuel-martin-17546423a/)
+```json
+{
+   "name": "Sam",
+   "location": "Minnesota",
+   "favorite language": "JavaScript",
+   "currently learning": ["React", "Rust"]
+   "find me": {
+      "discord": "OrdinarilySam#5258"
+      "linkedin": "linkedin.com/in/samuel-martin-17546423a/"
+   }
+}
+```
+
+[LinkedIn Hyperlink](https://linkedin.com/in/samuel-martin-17546423a/)
