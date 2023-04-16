@@ -14,11 +14,12 @@
    "location": "Minnesota",
    "favorite language": "JavaScript",
    "currently learning": ["React", "TypeScript", "Rust"],
+   "interests": ["Astronomy", "Hiking", "Programming", "Gaming"],
    "find me": {
       "discord": "OrdinarilySam#5258"
-      "linkedin": "linkedin.com/in/samuel-martin-17546423a/"
+      "linkedin": "linkedin.com/in/samuel-d-martin"
    }
 }
 ```
 
-[LinkedIn Hyperlink](https://linkedin.com/in/samuel-martin-17546423a/)
+[LinkedIn Hyperlink](https://linkedin.com/in/samuel-d-martin/)
