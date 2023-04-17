@@ -16,7 +16,7 @@
    "currently learning": ["React", "TypeScript", "Rust"],
    "interests": ["Astronomy", "Hiking", "Programming", "Gaming"],
    "find me": {
-      "discord": "OrdinarilySam#5258"
+      "discord": "OrdinarilySam#5258",
       "linkedin": "linkedin.com/in/samuel-d-martin"
    }
 }
