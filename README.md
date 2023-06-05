@@ -12,8 +12,8 @@
 {
    "name": "Sam",
    "location": "Minnesota",
-   "favorite language": "JavaScript",
-   "currently learning": ["React", "TypeScript", "Rust"],
+   "favorite language": "TypeScript",
+   "currently learning": ["React", "SvelteKit"],
    "interests": ["Astronomy", "Photography", "Hiking", "Gaming"],
    "find me": {
       "discord": "OrdinarilySam#5258",
