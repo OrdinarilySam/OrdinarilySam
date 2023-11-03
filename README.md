@@ -13,8 +13,8 @@
    "name": "Sam",
    "location": "Minnesota",
    "favorite language": "TypeScript",
-   "currently learning": ["React", "SvelteKit"],
-   "interests": ["Astronomy", "Photography", "Hiking", "Gaming"],
+   "currently learning": ["C", "OCaml", ".NET"],
+   "interests": ["Astronomy", "Photography", "Hiking"],
    "find me": {
       "discord": "OrdinarilySam#5258",
       "linkedin": "linkedin.com/in/samuel-d-martin"
