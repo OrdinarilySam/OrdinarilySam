@@ -13,7 +13,7 @@
    "name": "Sam",
    "location": "Minnesota",
    "favorite language": "TypeScript",
-   "currently learning": ["C", "OCaml", ".NET"],
+   "currently learning": ["Rust", "Django"],
    "interests": ["Astronomy", "Photography", "Hiking"],
    "find me": {
       "discord": "OrdinarilySam#5258",
