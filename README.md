@@ -21,5 +21,3 @@
    }
 }
 ```
-
-[LinkedIn Hyperlink](https://linkedin.com/in/samuel-d-martin/)
