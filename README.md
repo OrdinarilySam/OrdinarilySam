@@ -14,8 +14,8 @@
    "location": "Minnesota",
    "favorite language": "TypeScript",
    "currently learning": ["Rust", "Django"],
-   "interests": ["Astronomy", "Photography", "Hiking"],
-   "find me": {
+   "interests": ["Security", "Photography", "Hiking"],
+   "find_me": {
       "discord": "OrdinarilySam#5258",
       "linkedin": "linkedin.com/in/samuel-d-martin"
    }
