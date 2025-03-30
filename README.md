@@ -12,8 +12,8 @@
 {
    "name": "Sam",
    "location": "Minnesota",
-   "favorite language": "TypeScript",
-   "currently learning": ["Rust", "Django"],
+   "favorite language": "Go",
+   "currently learning": ["Security+"],
    "interests": ["Security", "Photography", "Hiking"],
    "find_me": {
       "discord": "OrdinarilySam#5258",
