@@ -13,7 +13,7 @@
    "name": "Sam",
    "location": "Minnesota",
    "favorite language": "Go",
-   "currently learning": ["Security+"],
+   "currently learning": ["Security+", "Unity"],
    "interests": ["Security", "Photography", "Hiking"],
    "find_me": {
       "discord": "OrdinarilySam#5258",
