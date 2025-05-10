@@ -15,9 +15,5 @@
    "favorite language": "Go",
    "currently learning": ["Security+", "Unity"],
    "interests": ["Security", "Photography", "Hiking"],
-   "find_me": {
-      "discord": "OrdinarilySam#5258",
-      "linkedin": "linkedin.com/in/samuel-d-martin"
-   }
 }
 ```
